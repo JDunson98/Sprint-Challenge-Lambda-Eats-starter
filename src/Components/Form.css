@@ -1,0 +1,41 @@
+.toppings-container {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    background-color: lightgrey;
+}
+
+.spec-instructions {
+    padding: 10px;
+}
+
+.toppings-button {
+    width: 100%;
+    columns: 2 auto;
+}
+
+.submit {
+    margin: 10px;
+    color: red;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    
+}
+
+.header button {
+    margin: 10px 15px;
+}
+
+.orders-list {
+    display: flex;
+    margin: 0px 20px;
+    background-color: lavender;
+    height: 20%;
+}
+
